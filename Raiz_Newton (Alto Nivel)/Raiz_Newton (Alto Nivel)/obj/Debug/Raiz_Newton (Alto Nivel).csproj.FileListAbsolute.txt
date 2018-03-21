@@ -1,0 +1,6 @@
+c:\users\gustavo\documents\visual studio 2017\Projects\Raiz_Newton (Alto Nivel)\Raiz_Newton (Alto Nivel)\obj\Debug\Raiz_Newton (Alto Nivel).csprojResolveAssemblyReference.cache
+c:\users\gustavo\documents\visual studio 2017\Projects\Raiz_Newton (Alto Nivel)\Raiz_Newton (Alto Nivel)\bin\Debug\Raiz_Newton (Alto Nivel).exe.config
+c:\users\gustavo\documents\visual studio 2017\Projects\Raiz_Newton (Alto Nivel)\Raiz_Newton (Alto Nivel)\bin\Debug\Raiz_Newton (Alto Nivel).exe
+c:\users\gustavo\documents\visual studio 2017\Projects\Raiz_Newton (Alto Nivel)\Raiz_Newton (Alto Nivel)\bin\Debug\Raiz_Newton (Alto Nivel).pdb
+c:\users\gustavo\documents\visual studio 2017\Projects\Raiz_Newton (Alto Nivel)\Raiz_Newton (Alto Nivel)\obj\Debug\Raiz_Newton (Alto Nivel).exe
+c:\users\gustavo\documents\visual studio 2017\Projects\Raiz_Newton (Alto Nivel)\Raiz_Newton (Alto Nivel)\obj\Debug\Raiz_Newton (Alto Nivel).pdb
